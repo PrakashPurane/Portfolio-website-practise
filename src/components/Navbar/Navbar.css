@@ -1,0 +1,36 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px 160px;
+}
+
+.purane-heading{
+    padding-left: 30px;
+}
+.nav-menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 84px;
+    font-size: 20px;
+}
+
+/* .navbar img{
+    width: 10%;
+    
+} */
+
+.nav-connect{
+    padding: 20px 40px;
+    border-radius: 50px;
+    background: linear-gradient(267deg, yellow 0.23%, purple 102%);
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.nav-connect:hover{
+    transform: scale(1.15);
+
+}
+
